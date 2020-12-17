@@ -1,4 +1,4 @@
-PyDF2JSON
+PyDF2JSON - my own version
 =========
 
 This code was written so that I could do more detailed analysis of PDF documents, on the fly and incorporate it into a security stack. "On the fly" is key. PyDF2JSON simply creates a json structure out of PDF documents. It breaks a PDF document down into all its individual parts, and retains those parts for analysis. Once this is done, a more detailed analysis should be possible.
